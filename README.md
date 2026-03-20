@@ -38,12 +38,14 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +87,5 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 <!---LeetCode Topics End-->
