@@ -22,6 +22,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -76,6 +77,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
@@ -111,4 +113,16 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
