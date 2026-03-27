@@ -129,4 +129,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
