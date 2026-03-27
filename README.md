@@ -7,6 +7,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
@@ -54,6 +57,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
