@@ -6,6 +6,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -36,10 +37,12 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -70,6 +73,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
@@ -147,4 +151,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
