@@ -146,6 +146,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Union-Find
