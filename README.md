@@ -151,6 +151,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,4 +175,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
