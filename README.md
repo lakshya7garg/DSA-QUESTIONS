@@ -26,6 +26,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2075-decode-the-slanted-ciphertext](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
@@ -189,4 +191,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
