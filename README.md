@@ -11,6 +11,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
