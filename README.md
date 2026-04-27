@@ -60,6 +60,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -93,6 +94,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -192,6 +194,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0386-lexicographical-numbers) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
@@ -207,6 +210,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
@@ -244,5 +248,6 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
