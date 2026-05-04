@@ -40,6 +40,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0205-isomorphic-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -265,4 +266,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
