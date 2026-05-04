@@ -6,6 +6,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0788-rotated-digits) |
@@ -60,6 +61,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
@@ -99,6 +101,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
