@@ -196,6 +196,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
@@ -270,4 +271,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
