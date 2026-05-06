@@ -73,6 +73,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -108,6 +109,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2906-construct-product-matrix) |
@@ -197,6 +199,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
