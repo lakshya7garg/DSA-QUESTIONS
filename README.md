@@ -66,6 +66,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
@@ -184,6 +185,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
