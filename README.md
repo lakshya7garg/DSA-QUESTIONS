@@ -90,6 +90,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2452-words-within-two-edits-of-dictionary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
@@ -165,6 +166,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1345-jump-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -191,6 +193,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
@@ -223,6 +226,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0061-rotate-list](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
