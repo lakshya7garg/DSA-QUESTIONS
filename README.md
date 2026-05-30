@@ -106,6 +106,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -209,6 +210,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
@@ -330,4 +332,12 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
