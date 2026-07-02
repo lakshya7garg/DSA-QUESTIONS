@@ -121,6 +121,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3161-block-placement-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -161,6 +162,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -258,6 +260,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -366,6 +369,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
@@ -392,4 +396,12 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
