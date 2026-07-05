@@ -10,6 +10,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0492-construct-the-rectangle) |
 | [0788-rotated-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
