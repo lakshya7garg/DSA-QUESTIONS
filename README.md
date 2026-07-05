@@ -11,6 +11,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
@@ -85,6 +86,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
 | [1301-number-of-paths-with-max-score](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1306-jump-game-iii) |
@@ -276,6 +278,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
