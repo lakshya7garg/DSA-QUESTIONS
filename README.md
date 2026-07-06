@@ -88,6 +88,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1345-jump-game-iv) |
@@ -279,6 +280,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1288-remove-covered-intervals](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
