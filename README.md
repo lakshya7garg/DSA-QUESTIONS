@@ -21,6 +21,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
