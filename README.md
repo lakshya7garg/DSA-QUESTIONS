@@ -137,6 +137,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-network-recovery-pathways](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3620-network-recovery-pathways) |
@@ -221,6 +222,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -255,6 +257,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -348,6 +351,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -424,6 +428,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
