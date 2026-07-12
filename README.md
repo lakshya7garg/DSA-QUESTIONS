@@ -95,6 +95,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1288-remove-covered-intervals](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -214,6 +215,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0205-isomorphic-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
+| [1331-rank-transform-of-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -293,6 +295,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
