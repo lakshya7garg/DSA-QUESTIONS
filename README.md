@@ -354,6 +354,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0584-find-customer-referee](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Union-Find
