@@ -323,6 +323,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1291-sequential-digits) |
 | [3546-equal-sum-grid-partition-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 ## Tree
 |  |
