@@ -10,8 +10,9 @@ public:
         if (i == n)
             return (g1 == g2 && g1 != 0);
 
-        int &res = dp[i][g1][g2];
-        if (res != -1) return res;
+        int& res = dp[i][g1][g2];
+        if (res != -1)
+            return res;
 
         res = solve(i + 1, g1, g2); // skip
 
