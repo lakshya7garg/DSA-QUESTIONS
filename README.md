@@ -22,6 +22,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -434,6 +435,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Indexed Tree
 |  |
 | ------- |
