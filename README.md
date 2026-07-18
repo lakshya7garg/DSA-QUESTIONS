@@ -15,6 +15,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0788-rotated-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -117,6 +118,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
@@ -444,6 +446,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
