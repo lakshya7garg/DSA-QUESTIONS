@@ -61,6 +61,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -285,6 +286,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -395,6 +397,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 ## Trie
 |  |
@@ -487,4 +490,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
