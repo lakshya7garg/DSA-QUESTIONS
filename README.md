@@ -42,6 +42,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1914-cyclically-rotating-a-grid) |
@@ -99,6 +100,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1306-jump-game-iii) |
@@ -174,6 +176,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
