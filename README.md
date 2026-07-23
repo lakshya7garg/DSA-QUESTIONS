@@ -69,6 +69,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1861-rotating-the-box) |
@@ -266,6 +268,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2906-construct-product-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
