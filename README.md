@@ -7,6 +7,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
@@ -105,6 +106,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0485-max-consecutive-ones) |
@@ -360,6 +362,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [1861-rotating-the-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
