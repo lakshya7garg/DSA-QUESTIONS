@@ -420,6 +420,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
