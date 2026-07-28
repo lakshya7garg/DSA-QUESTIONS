@@ -91,6 +91,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3838-weighted-word-mapping) |
@@ -351,6 +352,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -535,4 +537,8 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
