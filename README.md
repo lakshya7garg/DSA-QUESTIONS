@@ -408,6 +408,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0176-second-highest-salary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1068-product-sales-analysis-i) |
