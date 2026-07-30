@@ -18,6 +18,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +88,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2833-furthest-point-from-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -324,6 +326,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
