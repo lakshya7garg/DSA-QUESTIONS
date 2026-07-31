@@ -1,9 +1,6 @@
-SELECT Name as person_name FROM
+SELECT person_name FROM
 (
-SELECT turn as Turn,
-    person_id as ID,
-    person_name as Name,
-    weight as Weight,
+SELECT person_name,
     SUM(weight) OVER(ORDER BY turn ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) as Total_Weight
 FROM Queue
 ) T
