@@ -431,6 +431,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1075-project-employees-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1148-article-views-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1527-patients-with-a-condition) |
