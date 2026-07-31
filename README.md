@@ -89,6 +89,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -265,6 +266,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -327,6 +329,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -357,6 +360,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2463-minimum-total-distance-traveled](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -478,6 +482,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
