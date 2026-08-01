@@ -2,16 +2,15 @@ class Solution {
 public:
     bool predictTheWinner(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(n,0));
+        vector<vector<int>> dp(n,vector<int>(n));
 
-        for(int i=0; i<n; i++) {
-            dp[i][0]=nums[i];
-        }
+        for(int i=0;i<n;i++)
+            dp[i][i]=nums[i];
 
-        for(int len=2; len<=n; len++) {
-            for(int l=0; l+len-1<n; l++) {
-                int r=l+len-1;
-                dp[l][r]=max(nums[l]-dp[l+1][r],nums[r]-dp[l][r-1]);
+        for(int len=2;len<=n;len++){
+            for(int i=0;i+len-1<n;i++){
+                int j=i+len-1;
+                dp[i][j]=max(nums[i]-dp[i+1][j], nums[j]-dp[i][j-1]);
             }
         }
 
