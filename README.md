@@ -20,6 +20,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -155,6 +156,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -349,6 +351,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -495,6 +498,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0877-stone-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -521,6 +525,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -612,10 +617,12 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -624,6 +631,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
