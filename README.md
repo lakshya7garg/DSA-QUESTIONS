@@ -17,6 +17,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0877-stone-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -140,6 +141,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -252,6 +254,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2463-minimum-total-distance-traveled) |
@@ -498,6 +501,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0877-stone-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
