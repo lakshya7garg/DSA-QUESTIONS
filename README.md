@@ -20,6 +20,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -89,6 +90,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -363,6 +365,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
@@ -511,6 +514,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
