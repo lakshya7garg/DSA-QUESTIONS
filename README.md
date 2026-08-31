@@ -587,6 +587,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0061-rotate-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Number Theory
 |  |
 | ------- |
