@@ -45,6 +45,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
