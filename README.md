@@ -80,6 +80,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0657-robot-return-to-origin) |
@@ -267,6 +268,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0788-rotated-digits) |
