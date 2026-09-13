@@ -142,6 +142,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0485-max-consecutive-ones](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
@@ -245,6 +246,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
