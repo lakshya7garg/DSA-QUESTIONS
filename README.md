@@ -91,6 +91,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -319,6 +320,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1331-rank-transform-of-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -394,6 +396,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
@@ -431,6 +434,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1329-sort-the-matrix-diagonally](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
