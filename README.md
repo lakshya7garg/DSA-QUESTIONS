@@ -93,6 +93,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0796-rotate-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -588,6 +589,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 ## Trie
@@ -731,6 +733,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
