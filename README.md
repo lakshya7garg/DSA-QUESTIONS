@@ -90,6 +90,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0115-distinct-subsequences](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0796-rotate-string) |
@@ -379,6 +380,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -639,6 +641,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
