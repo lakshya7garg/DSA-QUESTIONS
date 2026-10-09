@@ -104,6 +104,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -430,6 +431,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
@@ -607,6 +609,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 ## Trie
 |  |
@@ -758,5 +761,6 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1021-remove-outermost-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
