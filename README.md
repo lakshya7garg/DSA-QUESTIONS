@@ -201,6 +201,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2196-create-binary-tree-from-descriptions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2463-minimum-total-distance-traveled) |
@@ -409,6 +410,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -440,6 +442,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -456,6 +459,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -475,6 +479,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
