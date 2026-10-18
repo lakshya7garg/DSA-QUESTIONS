@@ -19,6 +19,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1927-sum-game) |
@@ -176,6 +177,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -320,6 +322,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1406-stone-game-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -539,6 +542,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -560,6 +564,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
@@ -601,6 +606,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2573-find-the-string-with-lcp) |
@@ -646,6 +652,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -741,6 +748,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -788,4 +796,16 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
