@@ -66,6 +66,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -145,6 +146,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3742-maximum-path-score-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -557,6 +560,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2196-create-binary-tree-from-descriptions](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -571,6 +575,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2685-count-the-number-of-complete-components](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -667,6 +672,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -723,6 +729,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3161-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -733,6 +740,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
