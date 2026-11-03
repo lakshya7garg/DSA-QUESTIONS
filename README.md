@@ -45,6 +45,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -273,6 +274,7 @@ Here are the solutions of some DSA problems i have solved on leetcode
 | [3718-smallest-missing-multiple-of-k](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/lakshya7garg/DSA-QUESTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
